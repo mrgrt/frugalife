@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frugal/static/css/main.55e69184.chunk.css",
-    "main.js": "/frugal/static/js/main.59e5ec7b.chunk.js",
-    "main.js.map": "/frugal/static/js/main.59e5ec7b.chunk.js.map",
-    "runtime-main.js": "/frugal/static/js/runtime-main.c5a7f8ba.js",
-    "runtime-main.js.map": "/frugal/static/js/runtime-main.c5a7f8ba.js.map",
-    "static/js/2.80b5d3e9.chunk.js": "/frugal/static/js/2.80b5d3e9.chunk.js",
-    "static/js/2.80b5d3e9.chunk.js.map": "/frugal/static/js/2.80b5d3e9.chunk.js.map",
-    "index.html": "/frugal/index.html",
-    "precache-manifest.e1114e51ec7a0e9679bf7d4461f1f532.js": "/frugal/precache-manifest.e1114e51ec7a0e9679bf7d4461f1f532.js",
-    "service-worker.js": "/frugal/service-worker.js",
-    "static/css/main.55e69184.chunk.css.map": "/frugal/static/css/main.55e69184.chunk.css.map",
-    "static/js/2.80b5d3e9.chunk.js.LICENSE": "/frugal/static/js/2.80b5d3e9.chunk.js.LICENSE",
-    "static/media/logo.svg": "/frugal/static/media/logo.5d5d9eef.svg"
+    "main.css": "/frugalife/static/css/main.55e69184.chunk.css",
+    "main.js": "/frugalife/static/js/main.99e71fb3.chunk.js",
+    "main.js.map": "/frugalife/static/js/main.99e71fb3.chunk.js.map",
+    "runtime-main.js": "/frugalife/static/js/runtime-main.334bc5af.js",
+    "runtime-main.js.map": "/frugalife/static/js/runtime-main.334bc5af.js.map",
+    "static/js/2.80b5d3e9.chunk.js": "/frugalife/static/js/2.80b5d3e9.chunk.js",
+    "static/js/2.80b5d3e9.chunk.js.map": "/frugalife/static/js/2.80b5d3e9.chunk.js.map",
+    "index.html": "/frugalife/index.html",
+    "precache-manifest.cde76494142caa9c0174ec7cfe9ada34.js": "/frugalife/precache-manifest.cde76494142caa9c0174ec7cfe9ada34.js",
+    "service-worker.js": "/frugalife/service-worker.js",
+    "static/css/main.55e69184.chunk.css.map": "/frugalife/static/css/main.55e69184.chunk.css.map",
+    "static/js/2.80b5d3e9.chunk.js.LICENSE": "/frugalife/static/js/2.80b5d3e9.chunk.js.LICENSE",
+    "static/media/logo.svg": "/frugalife/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5a7f8ba.js",
+    "static/js/runtime-main.334bc5af.js",
     "static/js/2.80b5d3e9.chunk.js",
     "static/css/main.55e69184.chunk.css",
-    "static/js/main.59e5ec7b.chunk.js"
+    "static/js/main.99e71fb3.chunk.js"
   ]
 }
